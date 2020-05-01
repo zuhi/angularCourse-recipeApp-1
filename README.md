@@ -1,5 +1,9 @@
 # Recepie
 
+This project was built with the help of Maximilian Schwarzmüller's "Angular- The Complete Guide(2020 Edition)" course on Udemy. 
+
+#### Built for better understanding of Components and Databinding.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
 ## Development server
